@@ -1,0 +1,35 @@
+1.usrテーブルからすべてのデータを表示する
+
+2.usrテーブルから「family」が4以上の
+「uname」「family」を表示する
+
+3.usrテーブルから「family」にNULLが含まれる 
+「uname」「family」  を表示する
+
+4.usrテーブルから「uid」にtoが含まれる 
+「uname」「family」  を表示する
+
+5.usrテーブルから「family」が4より小さく、
+「uid」がdaで終わる 
+「uid」「uname」「family」を表示する
+
+6.usrテーブルから「family」が5より大きい
+データを削除する
+
+7.usrテーブルの「family」にNULLを含むデータの
+「family」を0に変更する
+
+8.usrテーブルに「uid」がtest、
+「passwd」がthis、
+「uname」がpatternになるデータを追加する
+
+9.usrテーブルから、「family」が3の
+ 「uname」「family」 を
+「uid」の小さい順に表示する
+
+10.usrテーブルから、
+「family」が大きい順で3つ、
+すべてのデータを表示する
+
+
+
